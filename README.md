@@ -23,3 +23,5 @@ OVERALL, THIS JAVA CHAT APPLICATION FULLY DEMONSTRATES THE REQUIREMENT TO BUILD 
 
 *OUTPUT*
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/203018ae-29de-4ff2-b015-663757c0bd2a" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0be8ac88-11e2-476c-a343-266ffd904731" />
